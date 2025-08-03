@@ -1,13 +1,7 @@
-Here’s a concise repo summary and a ready-to-copy README you can drop in.
-
 ## What’s in your repo
 
 * **Project:** MMAI Capstone Project.
 * **Files:** one Jupyter notebook `Capstone_Project_0811.ipynb` and a placeholder `ReadMe` file; no datasets or requirements are checked in; the current README shown by GitHub is minimal (“This is for the MMAI project”). ([GitHub][1])
-
----
-
-## Suggested `README.md` (copy/paste)
 
 ```markdown
 # MMAI Capstone Project
@@ -89,19 +83,8 @@ A reproducible notebook-driven project exploring a real-world ML/NLP/analytics p
 ## Contributors
 
 * **Siyu (Lucy) Wo** — author
-* *Advisors/teammates (if any)*
-
-## License
-
-Specify a license (e.g., MIT) if you intend to share or reuse.
 
 ```
 
----
 
-If you’d like, I can tailor the README to your exact problem statement (dataset name, metrics, and key results) and generate a `requirements.txt` from your notebook.
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://github.com/Lucy-wo/MMAICapstoneProject/tree/main "GitHub - Lucy-wo/MMAICapstoneProject"
 
