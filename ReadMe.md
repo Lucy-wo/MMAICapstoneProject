@@ -1,10 +1,3 @@
-# this this test
-
-## What’s in your repo
-
-* **Project:** MMAI Capstone Project.
-* **Files:** one Jupyter notebook `Capstone_Project_0811.ipynb` and a placeholder `ReadMe` file; no datasets or requirements are checked in; the current README shown by GitHub is minimal (“This is for the MMAI project”). ([GitHub][1])
-
 ```markdown
 # MMAI Capstone Project
 
